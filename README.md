@@ -4,6 +4,9 @@ Image classification of chest X-rays into three classes: Normal, Viral Pneumonia
 
 This repo contains a single Jupyter Notebook that prepares the dataset, defines a custom Dataset/DataLoader, fine-tunes a model, and visualizes predictions.
 
+# Images
+![](image-1.png)
+
 ## Project structure
 
 ```
